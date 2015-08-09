@@ -1,0 +1,14 @@
+This repo only contains summarys of what I have been up to.
+A lot of my projects that I set up to learn... They end up ridiculously bloated.
+One simple "hello world" database example project I had
+got to 1 GIGABYTE.
+
+If this wasn't bloated enterprise software, I might be able to keep my
+code with my reports in the same repo. But I can't risk that seeing
+as what happens sometimes.
+
+Dates:
+The files are dated by the first date that appears in that log file.
+Decided to NOT use end-dates, because that could create problems in GIT
+if you date something for a whole week and then decide the log file needs
+to be split up.
